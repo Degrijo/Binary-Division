@@ -1,0 +1,7 @@
+﻿  MRZiIS.cpp
+c:\users\degri\source\repos\mrziis\mrziis\mrziis.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\degri\source\repos\mrziis\mrziis\mrziis.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\degri\source\repos\mrziis\mrziis\mrziis.cpp(84): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\degri\source\repos\mrziis\mrziis\mrziis.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\degri\source\repos\mrziis\mrziis\mrziis.cpp(149): warning C4715: division: значение возвращается не при всех путях выполнения
+  MRZiIS.vcxproj -> C:\Users\degri\source\repos\MRZiIS\Debug\MRZiIS.exe
